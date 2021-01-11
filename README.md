@@ -1,29 +1,36 @@
 # reimagined-fiesta
 
-## Project setup
-```
-yarn install
+## Frontend project setup written in VueJs.
+
+### Project setup
+
+```js
+npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
+#### Compiles and hot-reloads for development
+
+```js
+npm run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
+#### Compiles and minifies for production
+
+```js
+npm run build
 ```
 
-### Run your unit tests
-```
-yarn test:unit
+#### Run your unit tests
+
+```js
+npm run test:unit
 ```
 
-### Lints and fixes files
-```
-yarn lint
+#### Lints and fixes files
+
+```js
+npm run lint
 ```
 
-### Customize configuration
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
